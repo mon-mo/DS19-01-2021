@@ -17,8 +17,7 @@ public class Conta {
 	if (tipo.equals ("corrente") || tipo.equals ("poupança")) {
 		this.tipo = tipo;
 	} else { 
-		System.out.println (" o tipo deve ser corrente ou poupança ");
-		}
+		System.out.println (" o tipo deve ser corrente ou poupança ");}
 	
 	public void depositar(double valorDeposito) {
 		

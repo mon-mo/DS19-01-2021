@@ -38,8 +38,7 @@ public class App {
 		
 		//**conta do Joao 
 		
-		contaDoJoao.setTipo("corrente");
-		
+		contaDoJoao.tipo = "";
 	}
 
 }
